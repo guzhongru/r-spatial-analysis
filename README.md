@@ -43,6 +43,8 @@
 ## Sites
 - [Análise Geoespacial no R](https://www.geosaber.com.br/general/2018/01/08/analise-espacial-R/)
 
+- [Geo Independência](https://geoind.wordpress.com/?blogsub=confirming#blog_subscription-2)
+
 - [Mapping Spatial Data in R](http://hautahi.com/rmaps) - Hautahi Kingi
 
 - [Chris Brown’s blog](http://www.seascapemodels.org/bluecology_blog.html)
