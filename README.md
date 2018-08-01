@@ -73,6 +73,8 @@
 
 - [NEON](https://www.neonscience.org)
 
+- [R Training Curriculum](https://owi.usgs.gov/R/training-curriculum/)
+
 ## Courses
 - [Working with Geospatial Data in R](https://www.datacamp.com/courses/working-with-geospatial-data-in-r)
 
