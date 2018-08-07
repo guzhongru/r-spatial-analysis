@@ -11,6 +11,8 @@
 
 - [Geospatial Analysis](http://spatialanalysisonline.com/HTML/index.html) (Smith et al. 2018)
 
+- [Análisis espacial con R: Usa R como un Sistema de Información Geográfica](http://eujournal.org/files/journals/1/books/JeanFrancoisMas.pdf) (Jean-François Mas) 
+
 ## Tutorials
 - [Introduction to GIS with R](https://www.jessesadler.com/post/gis-with-r-intro/)
 
