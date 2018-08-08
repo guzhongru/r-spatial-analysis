@@ -90,3 +90,5 @@
 ### Importante!
 
 - [Using the Geopackage Format with R](http://jsta.github.io/2016/07/14/geopackage-r.html)
+
+- [Analise espacial para Biodiversidade](https://felipesbarros.github.io/CongressoGeoBiodiversidadeI/AnaliseEspacialBiodiversidade.html) - Felipe Sodré Mendes Barros
