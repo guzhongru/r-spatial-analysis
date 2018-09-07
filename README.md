@@ -14,6 +14,8 @@
 - [Análisis espacial con R: Usa R como un Sistema de Información Geográfica](http://eujournal.org/files/journals/1/books/JeanFrancoisMas.pdf) (Jean-François Mas) 
 
 ## Tutorials
+- [Análise e visualização de dados espaciais com R](https://humbertosubiza.github.io/Intro_analise_espacial_R/)
+
 - [Introduction to GIS with R](https://www.jessesadler.com/post/gis-with-r-intro/)
 
 - [Spatial Data](http://ncss-tech.github.io/stats_for_soil_survey/chapters/2_data/2b_spatial_data.html)
