@@ -44,6 +44,8 @@
 
 - [Introduction to visualising spatial data in R](https://cran.r-project.org/doc/contrib/intro-spatial-rl.pdf)
 
+- [Spatial Analysis in R with Open Geodata](https://github.com/TWIAV/Spatial_Analysis_in_R_with_Open_Geodata)
+
 ## Sites
 - [Análise Geoespacial no R](https://www.geosaber.com.br/general/2018/01/08/analise-espacial-R/)
 
