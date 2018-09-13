@@ -47,6 +47,8 @@
 - [Spatial Analysis in R with Open Geodata](https://github.com/TWIAV/Spatial_Analysis_in_R_with_Open_Geodata)
 
 ## Sites
+- [Earth Lab](https://www.earthdatascience.org/)
+
 - [Análise Geoespacial no R](https://www.geosaber.com.br/general/2018/01/08/analise-espacial-R/)
 
 - [Geo Independência](https://geoind.wordpress.com/?blogsub=confirming#blog_subscription-2)
