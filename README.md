@@ -46,6 +46,8 @@
 
 - [Spatial Analysis in R with Open Geodata](https://github.com/TWIAV/Spatial_Analysis_in_R_with_Open_Geodata)
 
+- [An Introduction to Spatial Data Analysis and Visualisation in R](https://data.cdrc.ac.uk/tutorial/an-introduction-to-spatial-data-analysis-and-visualisation-in-r)
+
 ## Sites
 - [Earth Lab](https://www.earthdatascience.org/)
 
